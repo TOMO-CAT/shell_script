@@ -4,7 +4,7 @@
 
 在终端可视化输出表格数据（列用`\t`分隔，行用`\n`分隔）
 
-
+![](https://pic.downk.cc/item/5ed28e2dc2a9a83be514c3a8.jpg)
 
 #### 2. 使用方法
 
